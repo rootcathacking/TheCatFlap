@@ -36,7 +36,7 @@ Rolename: `AWSControlTowerExecution`
 
 This is what it looks like when done:
 
-![Role setup admin policy]](resources/image.png)
+![Role setup admin policy](resources/image.png)
 
 ![Role setup trust policy](resources/image-1.png)
 
