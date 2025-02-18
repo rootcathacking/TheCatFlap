@@ -1,6 +1,8 @@
 # The Cat Flap
 
-Hi, these are the bonus things that did not make it into the blogpost -> link.
+Hi, these are the bonus things that did not make it into the blogpost. -> [link](https://rootcat.de/blog/thecatflap/)
+
+Have fun reading it. 
 
 ![ZeCat](resources/barsik.png)
 
