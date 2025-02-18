@@ -2,7 +2,7 @@
 
 Hi, these are the bonus things that did not make it into the blogpost -> link.
 
-
+![ZeCat](resources/barsik.png)
 
 
 # Bonus
